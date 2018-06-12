@@ -24,6 +24,18 @@
   //Reading Code 20
 
   //Section 4
+  //The first part of a control statement is the condition
+  //The second part of a control statment is the limit
+  //The thirt part of a control statment is the code to  run
 
-  //Secrion 5
+for (let i=999; i >= 0; i--) {
+    console.log(`${i}`);
+  }
+
+for (let i=1; i <= 10; i++){
+  console.log(`The value is ${i} of ten`);
+}
+
+
+  //Section 5
   
